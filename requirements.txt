@@ -1,0 +1,5 @@
+pyrogram
+py-tgcalls
+yt-dlp
+apscheduler
+python-dotenv
